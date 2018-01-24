@@ -2,7 +2,7 @@ body {
   font-family: 'Garamond', 'times', serif;
 }
 h1 { 
-  color: lightgray; 
+  font-variant: small-caps;
 }
 
 ul.main-menu {
