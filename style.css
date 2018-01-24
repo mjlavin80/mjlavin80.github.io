@@ -14,3 +14,8 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
 }
+.frame {
+width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
