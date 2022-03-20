@@ -3,6 +3,3 @@
 ### 1. [mapbox](mapbox.md)
 
 ### 2. [chess](chess.md)
-
-
-mjlavin80.github.io
