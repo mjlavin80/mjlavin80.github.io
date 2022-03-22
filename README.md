@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Home
-permalink: /
+layout: home
 ---
 
 ## Matt Lavin's Portfolio Links
