@@ -1,6 +1,3 @@
----
-layout: page
-title: Chess
----
+[Back to Home Screen](README.md)
 
 ### Chess Example
