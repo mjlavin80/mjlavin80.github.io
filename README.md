@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Home
+permalink: /
+---
 
 ## Matt Lavin's Portfolio Links
 
