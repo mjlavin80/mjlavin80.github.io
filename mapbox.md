@@ -1,6 +1,1 @@
----
-layout: page
-
----
-
 ### Mapbox Example
