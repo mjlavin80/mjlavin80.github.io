@@ -1,0 +1,9 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Chess Example
+  url: /chess/
+
+- title: Mapbox Example
+  url: /mapbox/
