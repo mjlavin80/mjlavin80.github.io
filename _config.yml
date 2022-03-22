@@ -2,5 +2,4 @@ theme: jekyll-theme-slate
 title: Dr. Lavin's homepage
 description: Making a Jekyll site on Github is a snap!
 
-plugins:
-  - jekyll-sitemap
+markdown: kramdown
